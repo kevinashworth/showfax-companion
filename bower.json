@@ -1,0 +1,14 @@
+{
+  "name": "showfax-companion",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "tether-drop": "drop#^1.4.2",
+    "lodash": "^4.17.4",
+    "jQuery": "^3.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
